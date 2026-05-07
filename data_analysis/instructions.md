@@ -11,7 +11,7 @@
 3. set status to "piloting", click "pilot" to run
 4. complete the experiment and you should see that your responses are saved to a csv file
 5. share the .csv file with your friend via their folder in: https://drive.google.com/drive/folders/1b_zX4o0qL-bFPA6psYLG80mau_RlAdra?usp=drive_link
-6. **DEDLINE:** you should be finished with participating to your friends' experiments and share your data by the end of this saturday (09.05) midnight. please don't be late since your friends will analyze the data after you finish.
+6. **DEADLINE:** you should be finished with participating to your friends' experiments and share your data by the end of this saturday (09.05) midnight. please don't be late since your friends will analyze the data after you finish.
 # Analysis
 1. setup your environment
 	- install vscode
@@ -45,4 +45,4 @@
 	- commit and push to the remote repo
 	- share the link to your repo by replying to the forum where you first shared your experiment link
 	- if you're unfamiliar with above steps you can also share your analysis folder through google drive (open a new folder under your name). it's strongly suggested to try using git first.
-	- **DEDLINE:** next week before class (14.05 before noon (12:00PM))
+	- **DEADLINE:** next week before class (14.05 before noon (12:00PM))
